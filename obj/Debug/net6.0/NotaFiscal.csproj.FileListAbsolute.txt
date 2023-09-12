@@ -1,0 +1,15 @@
+C:\Users\Matheus Lopes\NotaFiscal\bin\Debug\net6.0\NotaFiscal.exe
+C:\Users\Matheus Lopes\NotaFiscal\bin\Debug\net6.0\NotaFiscal.deps.json
+C:\Users\Matheus Lopes\NotaFiscal\bin\Debug\net6.0\NotaFiscal.runtimeconfig.json
+C:\Users\Matheus Lopes\NotaFiscal\bin\Debug\net6.0\NotaFiscal.dll
+C:\Users\Matheus Lopes\NotaFiscal\bin\Debug\net6.0\NotaFiscal.pdb
+C:\Users\Matheus Lopes\NotaFiscal\obj\Debug\net6.0\NotaFiscal.csproj.AssemblyReference.cache
+C:\Users\Matheus Lopes\NotaFiscal\obj\Debug\net6.0\NotaFiscal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Lopes\NotaFiscal\obj\Debug\net6.0\NotaFiscal.AssemblyInfoInputs.cache
+C:\Users\Matheus Lopes\NotaFiscal\obj\Debug\net6.0\NotaFiscal.AssemblyInfo.cs
+C:\Users\Matheus Lopes\NotaFiscal\obj\Debug\net6.0\NotaFiscal.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Lopes\NotaFiscal\obj\Debug\net6.0\NotaFiscal.dll
+C:\Users\Matheus Lopes\NotaFiscal\obj\Debug\net6.0\refint\NotaFiscal.dll
+C:\Users\Matheus Lopes\NotaFiscal\obj\Debug\net6.0\NotaFiscal.pdb
+C:\Users\Matheus Lopes\NotaFiscal\obj\Debug\net6.0\NotaFiscal.genruntimeconfig.cache
+C:\Users\Matheus Lopes\NotaFiscal\obj\Debug\net6.0\ref\NotaFiscal.dll
